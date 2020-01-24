@@ -1,8 +1,8 @@
-# RepoName
+# Bus Route Search
 
-Date Created: 01/00/20 | Date Modified: 01/00/20
+Date Created: 01/24/20 | Date Modified: 01/24/20
 
-*This assignment is practice for Book X: Chapter X of NSS's course work. Link to the assignment: linktoassignmenthere*
+*This assignment is a code along for Book 3*
 
 Preview assignment here: linktopreviewhere
 ***
@@ -11,4 +11,4 @@ Preview assignment here: linktopreviewhere
 
 Add Title to html Page
 
-Add short description of assignment# nss-cl-bus-route-search
+Add short description of assignment
