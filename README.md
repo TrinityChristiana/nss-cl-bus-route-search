@@ -5,7 +5,7 @@ Date Created: 01/24/20 | Date Modified: 01/24/20
 
 *This assignment is a code along for Book 3*
 
-Preview assignment here: trinity-bus-route-search.netlify.com
+Preview assignment here: https://trinity-bus-route-search.netlify.com/
 ***
 Add short description of assignment
 
