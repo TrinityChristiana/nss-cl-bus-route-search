@@ -9,6 +9,5 @@ Preview assignment here: https://trinity-bus-route-search.netlify.com/
 ***
 
 This application allows user to search the bus stop names in Nashville, Tennessee using a search box
+
 ![](screenshot.png)
-
-
