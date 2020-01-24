@@ -7,8 +7,8 @@ Date Created: 01/24/20 | Date Modified: 01/24/20
 
 Preview assignment here: https://trinity-bus-route-search.netlify.com/
 ***
-Add short description of assignment
 
-![](imgHere)
+This application allows user to search the bus stop names in Nashville, Tennessee using a search box
+![](screenshot.png)
 
 
