@@ -10,7 +10,7 @@ const searchResultsDomManager = {
     renderSearchResults(searchResults) {
         const container = document.querySelector("#search-results");
         searchResults.forEach(busStop => {
-            container.innerHTML += ;
+            container.innerHTML += this.busStopFactory(busStop);
         });
     }
 };
