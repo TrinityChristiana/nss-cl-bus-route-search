@@ -1,4 +1,4 @@
-const apiBaseUrl = "http://data.nashville.gov/resource/vfe9-k7vc.json?";
+const apiBaseUrl = "https://data.nashville.gov/resource/vfe9-k7vc.json?";
 
 const apiManager = {
     searchBusStops(searchCriteria) {
